@@ -1,16 +1,19 @@
-# portfolio
+# JerryMatera | Mobile Engineer Portfolio
 
-A new Flutter project.
+This is a personal portfolio project built with flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project majorly targets to major platforms.
 
-A few resources to get you started if this is your first Flutter project:
+1. Mobile
+2. Web
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+For `debug` builds clone the repository to you computer and run on your desired platform.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For `release` build link for website will be available soon.
+
+
+## Tools
+
+- Flutter
